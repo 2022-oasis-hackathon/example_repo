@@ -3,7 +3,8 @@
 
 
 # Project name or Logo
-![Logo](https://logosbynick.com/wp-content/uploads/2018/03/final-logo-example.png)
+![오아시스로고](https://user-images.githubusercontent.com/64114699/178138225-3a1e530d-f4e6-4c02-a16f-cadb8d164fc6.png)
+
 
 프로젝트명 또는 프로젝트 로고 이미지 **(택1)**
 
